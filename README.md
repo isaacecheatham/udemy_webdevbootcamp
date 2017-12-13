@@ -1,7 +1,7 @@
 # udemy_webdevbootcamp
 All my course work and sandboxes from the web dev bootcamp on Udemy
 
-Throughout the course I learned the following technologies and some of which are reflected in these files.
+Throughout the course I learned or reviewed the following technologies and some of which are reflected in these files.
 
     HTML5
     CSS3
