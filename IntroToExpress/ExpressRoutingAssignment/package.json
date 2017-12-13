@@ -1,0 +1,14 @@
+{
+  "name": "express_routing",
+  "version": "1.0.0",
+  "description": "routing assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaac Cheatham",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
